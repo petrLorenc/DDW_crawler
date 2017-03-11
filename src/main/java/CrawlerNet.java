@@ -93,7 +93,7 @@ public class CrawlerNet extends WebCrawler {
      * crawlStorageFolder is a folder where intermediate crawl data is
      * stored.
      */
-        String crawlStorageFolder = ".";
+        String crawlStorageFolder = "./output";
 
     /*
      * numberOfCrawlers shows the number of concurrent threads that should
