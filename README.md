@@ -1,7 +1,9 @@
 # Crawler
 
-## Programming language : Java
-## Library: Crawler4j, jSoup, Gson
+### Programming language : Java
+### Library: Crawler4j, jSoup, Gson
+
+## Overview
 
 I choose to get information about reviews from rating portal Heureka.cz. The extracted data are save in JSON and contain structurated information about reviews. Every review contains text, pluses, minuses, usefullness of review, date, shop where the item was bought and rating of that product. It can be later used for NLP (stemming, remove stop-words etc.)
 
